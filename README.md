@@ -1,4 +1,4 @@
-# Chess Board and Pieces
+# Draw Chess Board and Pieces
 
 This is a .NET WINFORMS application which displays a chess board and chess pieces.  You can move a piece from one square to another.  You can add a piece to a square.  You can delete a piece from a square.  The application uses a PictureBox for each square.  The chess pieces are kept in a dictionary of images.  The application does not play chess.  There are no illegal moves.
 The application was created to create images of various boards for classes.
@@ -18,6 +18,7 @@ The is a C# WinForms Project.  Use Visual Studio 2022 and above to compile.
 * set a4 wk - put white king on square a4
 
 Only the first letter of each command is required.
+
 
 
 
