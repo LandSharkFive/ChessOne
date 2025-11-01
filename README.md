@@ -18,6 +18,13 @@ The is a C# WinForms Project.  Use Visual Studio 2022 and above to compile.
 
 Only the first letter of each command is required.
 
+## Credits
+
+The chess piece images are from Chess.com
+
+
+
+
 
 
 
